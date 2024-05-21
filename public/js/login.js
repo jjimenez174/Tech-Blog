@@ -10,6 +10,7 @@ const loginFormHandler = async function(event) {
         password: passwordEl.value
       }),
       headers: { 'Content-Type': 'application/json' }
+
     })
     .then(function() {
       document.location.replace('/dashboard');
