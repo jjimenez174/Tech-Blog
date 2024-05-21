@@ -26,15 +26,13 @@ It's a CMS-style blog site. Where users can publish articles, blog posts and oth
     * <b>npm dotenv</b>
     * <b>connect-session-sequelize</b>
     * <b>npm nodemon</b>
-* Change the databse login in .env file   
+* Change the databse login in .env file 
+* run <b> mysql -u root -p</b>  
+* <b>SOURCE db/schema.sql</b>
 * <b>npm start</b> to run the application
 
 
 All set to run the app. 
-
-## Usage
-
-
 
 ## Contribution
 At the moment I won't be accepting contributions.

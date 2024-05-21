@@ -1,8 +1,8 @@
 const router = require('express').Router();
-const { Post } = require('../models');
+const { Post } = require('../models/');
 const withAuth = require('../utils/auth');
 
-router.get("/", withAuth, (req, res) => {
+router.get('/', withAuth, async (req, res) => {
     Post.findAll({
       where: {
         userId: req.session.userId
@@ -42,8 +42,8 @@ router.get("/", withAuth, (req, res) => {
           res.status(404).end();
         }
       })
-      .catch(err => {
-        res.status(500).json(err);
+      .catch(error => {
+        res.status(500).json(error);
       });
   });
   
