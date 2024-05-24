@@ -17,15 +17,6 @@ It's a CMS-style blog site. Where users can publish articles, blog posts and oth
 * Open the file in VS code or any source code editor
 * Open terminal install 
     * <b>npm i</b>
-    * <b>npm bcrypt</b>
-    * <b>npm express </b>
-    * <b>npm express-handlebars</b>
-    * <b>npm express-session</b>
-    * <b>npm mysql2</b>
-    * <b>npm handlebars</b>
-    * <b>npm dotenv</b>
-    * <b>connect-session-sequelize</b>
-    * <b>npm nodemon</b>
 * Change the databse login in .env file 
 * run <b> mysql -u root -p</b>  
 * <b>SOURCE db/schema.sql</b>
@@ -48,3 +39,8 @@ For more information, visit [License Details](https://opensource.org/license/MIT
 ## Questions
 
 Contact me at: [jjimenez174](https://github.com/jjimenez174)
+
+## Deploy Application
+[Heroku](https://dashboard.heroku.com/apps/gener8r)
+
+[Link](https://gener8r-a730f9e12d50.herokuapp.com/)
