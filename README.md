@@ -3,7 +3,7 @@
 ## Description
 It's a CMS-style blog site. Where users can publish articles, blog posts and other content. 
 
-[Link to Demo]()
+[Link to Demo](https://drive.google.com/file/d/1TsusxKu1ROZjUYe6o_cyu_7urcRX3xFD/view?usp=sharing)
 
 ## Table of Content
 [Installation](#installation)  
@@ -22,14 +22,7 @@ It's a CMS-style blog site. Where users can publish articles, blog posts and oth
 * <b>SOURCE db/schema.sql</b>
 * <b>npm start</b> to run the application
 
-
 All set to run the app. 
-
-## Contribution
-At the moment I won't be accepting contributions.
-
-## Test
-There are no test for the application.
 
 ## License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -44,3 +37,7 @@ Contact me at: [jjimenez174](https://github.com/jjimenez174)
 [Heroku](https://dashboard.heroku.com/apps/gener8r)
 
 [Link](https://gener8r-a730f9e12d50.herokuapp.com/)
+
+## Credit
+
+https://scitechdaily.com/news/technology/
